@@ -5,12 +5,19 @@ body {
     flex-direction: column;
     gap: 3em; /* vahe elementide vahel */
     align-items: center;
+    background-color: lightcoral;
 }
 /* #-ga viitame elemendile, millel on selline id */
 #photo {
     max-width: 25em;
     max-height: 30em;
 }
+
+h1 {
+    font-family: 'Georgia', serif;
+    color: chartreuse;
+}
+
 /* .-ga viitame elemenditele, millel on selline class */
 .container {
     display: flex;
