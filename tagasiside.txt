@@ -1,0 +1,5 @@
+Töötuba oli täitsa hea ning meeldis, et seal olid vihjed ja alles siis lahendus, et ei näidata kohe kõike nii lihtsalt ette.
+Malli alguses oli öeldud, et tuleb ka JavaScripti, aga seda ei leidnud. Olenevalt, kuidas töötuba läbi viiakse,
+ma võib olla muudaks seda lauset <p> juures, et "Muuda tekst igal pool, kus malli järgi on palutud",
+näiteks kui tahetakse kohe edasi minna, et "muutke hiljem kõik need kohad", või kui oodataksegi ära kui need
+kõik <p> muudetakse siis võib jääda samaks.
